@@ -1,5 +1,3 @@
-# You are better off trying something and having it not work and learning from that not doing anything at all.
-
 ## IT'S ME
 
 - **도전적인 목표**를 통해, **습득하고 배우는 과정**을 즐깁니다.
